@@ -1447,3 +1447,5 @@ yitaodeMacBook-Pro:desktop yitaochen$ system_profiler>file.txt
 2021-07-21 17:53:05.607 AllowPasswordPref[8558:2712412] Result 0
 2021-07-21 17:53:09.644 system_profiler[8583:2712570] SPUSBDevice: IOCreatePlugInInterfaceForService failed 0xe00002be
 yitaodeMacBook-Pro:desktop yitaochen$ 
+
+
